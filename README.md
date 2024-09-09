@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🔭 Actualmente trabajo como desarrollador web freelance.<br>🌱 Estoy en búsqueda de un equipo de trabajo al cual<br>      pertenecer.<br>⚡ Me gusta aprender cosas nuevas y mejorar mi trabajo continuamente.
+🔭 Actualmente trabajo como desarrollador web freelance.<br>🌱 Estoy en búsqueda de un equipo de trabajo al cual pertenecer.<br>⚡ Me gusta aprender cosas nuevas y mejorar mi trabajo continuamente.
 
 
 # 💻 Tech Stack:
